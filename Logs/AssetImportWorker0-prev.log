@@ -1,0 +1,859 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/matic/Unity/CeltraOffice
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51816
+Successfully changed project path to: /Users/matic/Unity/CeltraOffice
+/Users/matic/Unity/CeltraOffice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/matic/Unity/CeltraOffice/Assets
+GfxDevice: creating device client; threaded=0
+2020-12-18 11:22:55.357 Unity[23013:953961] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2020-12-18 11:22:55.357 Unity[23013:953961] Metal devices available: 2
+2020-12-18 11:22:55.357 Unity[23013:953961] 0: AMD Radeon Pro 5500M (high power)
+2020-12-18 11:22:55.358 Unity[23013:953961] 1: Intel(R) UHD Graphics 630 (low power)
+2020-12-18 11:22:55.358 Unity[23013:953961] Using device AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56013
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001961 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.972 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2070 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2520.
+Total: 2.448010 ms (FindLiveObjects: 0.260261 ms CreateObjectMapping: 0.126432 ms MarkObjects: 1.999993 ms  DeleteObjects: 0.060187 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Modern_Office/Office_walls_floors_16x16.png
+  artifactKey: Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_walls_floors_16x16.png using Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f955f357b18b4e133d92ff004378bc5c') in 0.486706 seconds
+  Import took 0.490627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Modern_Office/Office_interiors_shadowless_16x16.png
+  artifactKey: Guid(74355453a0d34404fb50acbcedd9eb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_interiors_shadowless_16x16.png using Guid(74355453a0d34404fb50acbcedd9eb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adde555fa113941dbaacace868b3552') in 0.015402 seconds
+  Import took 0.018630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Modern_Office/Office_interiors_16x16.png
+  artifactKey: Guid(ca83d8d65734342fd8acecc345dd763a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_interiors_16x16.png using Guid(ca83d8d65734342fd8acecc345dd763a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025aa4ce653369ed2756df500853eb5d') in 0.011718 seconds
+  Import took 0.015326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Modern_Office/READ ME.txt
+  artifactKey: Guid(aafb79b3cf18d4ecbbb35a66dd5cecb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/READ ME.txt using Guid(aafb79b3cf18d4ecbbb35a66dd5cecb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2695d843b92dfc6b050308722ef05849') in 0.324047 seconds
+  Import took 0.328084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084345 seconds.
+  path: Assets/Modern_Office/Upscaled_versions
+  artifactKey: Guid(162816494149a46aeb04610ed9edb7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions using Guid(162816494149a46aeb04610ed9edb7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973ce0078d21ee1ab91b9407467a92b5') in 0.000814 seconds
+  Import took 0.004271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.589617 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_32x32.png
+  artifactKey: Guid(8e39391bb28a944bc93be81e3cf9c378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_32x32.png using Guid(8e39391bb28a944bc93be81e3cf9c378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0886aa1b47403c9bf186dd8379fe99f') in 0.011680 seconds
+  Import took 0.015238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_32x32.png
+  artifactKey: Guid(780c88ace8ab142b8ac6de3f353ddc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_32x32.png using Guid(780c88ace8ab142b8ac6de3f353ddc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5799a03bd1495a52eaa601a5e7ecb538') in 0.009461 seconds
+  Import took 0.013110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_32x32.png
+  artifactKey: Guid(4665e7a8441db45baa3acacf7c6d9a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_32x32.png using Guid(4665e7a8441db45baa3acacf7c6d9a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80299a8c7c1ed68176e751f890001385') in 0.007538 seconds
+  Import took 0.010539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2458494ddb4127f4ad95437cb90294d8') in 0.007732 seconds
+  Import took 0.011073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_48x48.png
+  artifactKey: Guid(2bb399e8498054b52bdcb102cd76d20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_48x48.png using Guid(2bb399e8498054b52bdcb102cd76d20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01ce2d25e60b1dbcc923275ba0e9d25') in 0.009560 seconds
+  Import took 0.012240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e13895c28fb2bc6006a4cbf1b9b60c') in 0.010731 seconds
+  Import took 0.013917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.667660 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d6026c345dbc93e1f88a282cb4a4cd') in 0.007899 seconds
+  Import took 0.011620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002765 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d6026c345dbc93e1f88a282cb4a4cd') in 0.007600 seconds
+  Import took 0.010547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.097673 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ddf9265031ffeac2490ba8a983992e') in 0.009771 seconds
+  Import took 0.014081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002661 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ddf9265031ffeac2490ba8a983992e') in 0.008869 seconds
+  Import took 0.011874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.585963 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bab8ed94dcf0649ebcf569a95c12efc') in 0.009748 seconds
+  Import took 0.014290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.006750 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2fef0b72e6c6bdadd0978726020cf3') in 0.010172 seconds
+  Import took 0.014127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001160 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2fef0b72e6c6bdadd0978726020cf3') in 0.008731 seconds
+  Import took 0.011948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.584441 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13baa831554ba7d2e876e962bfd7cac') in 0.008241 seconds
+  Import took 0.011910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006355 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13baa831554ba7d2e876e962bfd7cac') in 0.006936 seconds
+  Import took 0.010221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.025330 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png
+  artifactKey: Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_48x48.png using Guid(d51bb952a7eab4ead8c378b40852c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059aa646a9d91d50d1f752f3d119a3bc') in 0.232940 seconds
+  Import took 0.237358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.685716 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931d84428d7dc4e4f8592e00344431fe') in 0.005730 seconds
+  Import took 0.009833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005411 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931d84428d7dc4e4f8592e00344431fe') in 0.005051 seconds
+  Import took 0.008183 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2060 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2641.
+Total: 2.004566 ms (FindLiveObjects: 0.229444 ms CreateObjectMapping: 0.084507 ms MarkObjects: 1.671991 ms  DeleteObjects: 0.017642 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2060 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.6 MB.
+System memory in use after: 171.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2644.
+Total: 1.809350 ms (FindLiveObjects: 0.207901 ms CreateObjectMapping: 0.076744 ms MarkObjects: 1.509487 ms  DeleteObjects: 0.014179 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 684.477502 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/1x.png
+  artifactKey: Guid(c483493eb3ec0f143b5d78ad823ac661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/1x.png using Guid(c483493eb3ec0f143b5d78ad823ac661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba48d74b5b035b73b430d22c0fadf70') in 0.055768 seconds
+  Import took 0.059193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/2x.png
+  artifactKey: Guid(6bd1c00f5f6ecc746b6e2277f8a7d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/2x.png using Guid(6bd1c00f5f6ecc746b6e2277f8a7d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefe53de165047502ebcf28ea25c7f32') in 0.008573 seconds
+  Import took 0.012251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.119816 seconds.
+  path: Assets/Palettes/Ground tiles.prefab
+  artifactKey: Guid(a3402799ecf9a4680b1eea187ff0ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Ground tiles.prefab using Guid(a3402799ecf9a4680b1eea187ff0ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18a415bd151d9b7930d52c9428a0a03') in 0.313576 seconds
+  Import took 0.317940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.080761 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets
+  artifactKey: Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets using Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1831f888d588582b03c4788846693ca') in 0.001807 seconds
+  Import took 0.005390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.690083 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Backgrounds
+  artifactKey: Guid(4032d8f8d13c5954f956f116443aacff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Backgrounds using Guid(4032d8f8d13c5954f956f116443aacff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5baeb72b507a4a5dc8b1601b353c1bf7') in 0.000932 seconds
+  Import took 0.004264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.595884 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background
+  artifactKey: Guid(d1812e76ef309974dab10fcb8a0593ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background using Guid(d1812e76ef309974dab10fcb8a0593ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89fa4201883087ec40af2a3b9315795c') in 0.001567 seconds
+  Import took 0.005750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370533 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )
+  artifactKey: Guid(fdbe724adcb54054a8af872ee1354f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 ) using Guid(fdbe724adcb54054a8af872ee1354f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dec6c0548bfe1b34fa4734413989979') in 0.000859 seconds
+  Import took 0.004854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.738702 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )
+  artifactKey: Guid(463876520bcb40e46b9047b073639897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 ) using Guid(463876520bcb40e46b9047b073639897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f315c562dfbbe854be27ea536c101d2') in 0.001801 seconds
+  Import took 0.005247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.402226 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle
+  artifactKey: Guid(b2fccbf6373b5ee43872873fb27a403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle using Guid(b2fccbf6373b5ee43872873fb27a403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e56ecbd950f6e83a93a82bd5d35d96') in 0.001789 seconds
+  Import took 0.005585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.865651 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/ai
+  artifactKey: Guid(b41b8b51ee7322342a9063af0b134bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/ai using Guid(b41b8b51ee7322342a9063af0b134bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6aa8ded28916d579e3e98baa0be3f53') in 0.001665 seconds
+  Import took 0.005255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923751 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/ai/Coin Animation.ai
+  artifactKey: Guid(798c51dbb8e25474181a5d7bbb025341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/ai/Coin Animation.ai using Guid(798c51dbb8e25474181a5d7bbb025341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51899d908c658daf546b11005732f154') in 0.251304 seconds
+  Import took 0.255413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.759488 seconds.
+  path: Assets/Modern_Office/Office_walls_floors_16x16.asset
+  artifactKey: Guid(a95f68f57152d4d27b409162a8625753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_walls_floors_16x16.asset using Guid(a95f68f57152d4d27b409162a8625753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf3ad2ac260c4714ddabcb247fa1e63') in 0.216998 seconds
+  Import took 0.220711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.841080 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_32x32.asset
+  artifactKey: Guid(fe298c974ae78400a815055861a4214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_32x32.asset using Guid(fe298c974ae78400a815055861a4214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20243dd660cacfe2e52069e75c64e1d2') in 0.008884 seconds
+  Import took 0.012298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.828185 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_32x32.asset
+  artifactKey: Guid(0fa20022dedd646babd1c5986bc4e40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_interiors_shadowless_32x32.asset using Guid(0fa20022dedd646babd1c5986bc4e40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e510f013dbecb97a0d271ce2a52db98b') in 0.023604 seconds
+  Import took 0.027617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 796.466940 seconds.
+  path: Assets/Modern_Office/Office_walls_floors_16x16.png
+  artifactKey: Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_walls_floors_16x16.png using Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8c42fa041267e1c82d585f67eaa35d') in 0.006437 seconds
+  Import took 0.009924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007668 seconds.
+  path: Assets/Modern_Office/Office_walls_floors_16x16.png
+  artifactKey: Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_walls_floors_16x16.png using Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8c42fa041267e1c82d585f67eaa35d') in 0.005046 seconds
+  Import took 0.008185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.216177 seconds.
+  path: Assets/Modern_Office/Office_walls_floors_16x16.png
+  artifactKey: Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Office_walls_floors_16x16.png using Guid(ee34d44fb9d804bd1b613015cf6a0347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9815c413636c2be934138e799fd7f0d9') in 0.251778 seconds
+  Import took 0.255629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.516168 seconds.
+  path: Assets/Palettes/Ground Tiles.prefab
+  artifactKey: Guid(a3402799ecf9a4680b1eea187ff0ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Ground Tiles.prefab using Guid(a3402799ecf9a4680b1eea187ff0ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfc0950e594ffb82787cfba7be305d4') in 0.004081 seconds
+  Import took 0.007548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Palettes/Office asset tiles.prefab
+  artifactKey: Guid(2aacd4c7152ef46acb1bbc7e61fef18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Office asset tiles.prefab using Guid(2aacd4c7152ef46acb1bbc7e61fef18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9dfa1c9a3c0802c865c4ff864aba944') in 0.004374 seconds
+  Import took 0.007683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.596471 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e1f7cabfc5fdddb7ea6eb5836261b5') in 0.005054 seconds
+  Import took 0.008681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008583 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e1f7cabfc5fdddb7ea6eb5836261b5') in 0.005285 seconds
+  Import took 0.008473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.650335 seconds.
+  path: Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png
+  artifactKey: Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern_Office/Upscaled_versions/Office_walls_floors_48x48.png using Guid(b02e8a73e8d534eb19cd753b813de027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9556998aef88504f3d3b9cc134f500fe') in 0.253574 seconds
+  Import took 0.256923 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.2 MB.
+System memory in use after: 187.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 2.516252 ms (FindLiveObjects: 0.228845 ms CreateObjectMapping: 0.080691 ms MarkObjects: 1.899601 ms  DeleteObjects: 0.305586 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000854 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 188.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2660.
+Total: 3.281375 ms (FindLiveObjects: 0.328729 ms CreateObjectMapping: 0.147420 ms MarkObjects: 2.431859 ms  DeleteObjects: 0.372272 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000711 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.4 MB.
+System memory in use after: 188.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2663.
+Total: 2.195393 ms (FindLiveObjects: 0.201469 ms CreateObjectMapping: 0.078043 ms MarkObjects: 1.590575 ms  DeleteObjects: 0.324038 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.8 MB.
+System memory in use after: 189.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2666.
+Total: 2.295560 ms (FindLiveObjects: 0.208141 ms CreateObjectMapping: 0.076464 ms MarkObjects: 1.633808 ms  DeleteObjects: 0.376018 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001868 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.4 MB.
+System memory in use after: 188.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 2.547253 ms (FindLiveObjects: 0.269675 ms CreateObjectMapping: 0.095071 ms MarkObjects: 1.816283 ms  DeleteObjects: 0.357929 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.9 MB.
+System memory in use after: 189.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2672.
+Total: 2.208822 ms (FindLiveObjects: 0.205703 ms CreateObjectMapping: 0.074436 ms MarkObjects: 1.604477 ms  DeleteObjects: 0.323238 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.4 MB.
+System memory in use after: 189.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2675.
+Total: 2.302381 ms (FindLiveObjects: 0.267141 ms CreateObjectMapping: 0.095747 ms MarkObjects: 1.608840 ms  DeleteObjects: 0.329630 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.6 MB.
+System memory in use after: 190.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 2.329397 ms (FindLiveObjects: 0.265466 ms CreateObjectMapping: 0.091478 ms MarkObjects: 1.620466 ms  DeleteObjects: 0.350270 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.4 MB.
+System memory in use after: 190.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2681.
+Total: 2.336794 ms (FindLiveObjects: 0.243703 ms CreateObjectMapping: 0.099386 ms MarkObjects: 1.659892 ms  DeleteObjects: 0.332695 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.020 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.9 MB.
+System memory in use after: 190.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2684.
+Total: 2.214425 ms (FindLiveObjects: 0.202575 ms CreateObjectMapping: 0.077452 ms MarkObjects: 1.597064 ms  DeleteObjects: 0.336390 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000974 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.018 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.3 MB.
+System memory in use after: 190.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2688.
+Total: 2.466266 ms (FindLiveObjects: 0.272076 ms CreateObjectMapping: 0.101932 ms MarkObjects: 1.756840 ms  DeleteObjects: 0.334349 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.0 MB.
+System memory in use after: 190.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2691.
+Total: 2.338629 ms (FindLiveObjects: 0.257265 ms CreateObjectMapping: 0.096074 ms MarkObjects: 1.632711 ms  DeleteObjects: 0.351166 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.982 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.5 MB.
+System memory in use after: 191.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2694.
+Total: 2.661888 ms (FindLiveObjects: 0.288016 ms CreateObjectMapping: 0.118118 ms MarkObjects: 1.900660 ms  DeleteObjects: 0.353380 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10518.915026 seconds.
+  path: Assets/Kitchen and more tileset [16x16]/tileset.png
+  artifactKey: Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen and more tileset [16x16]/tileset.png using Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779899e4af2b3ba5bed2b258e812b157') in 0.053800 seconds
+  Import took 0.057115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.338689 seconds.
+  path: Assets/Kitchen and more tileset [16x16]/tileset.png
+  artifactKey: Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen and more tileset [16x16]/tileset.png using Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6cff7144d3a730ad0c2a08f6b74501') in 0.006922 seconds
+  Import took 0.010380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004148 seconds.
+  path: Assets/Kitchen and more tileset [16x16]/tileset.png
+  artifactKey: Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen and more tileset [16x16]/tileset.png using Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6cff7144d3a730ad0c2a08f6b74501') in 0.004291 seconds
+  Import took 0.007373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.070513 seconds.
+  path: Assets/Kitchen and more tileset [16x16]/tileset.png
+  artifactKey: Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen and more tileset [16x16]/tileset.png using Guid(6e23e8eeabe804916858cfa2ce079c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08332be13085aab42c3848edaebd5d9') in 0.381247 seconds
+  Import took 0.385117 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001284 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.2 MB.
+System memory in use after: 194.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 2.074226 ms (FindLiveObjects: 0.218076 ms CreateObjectMapping: 0.068621 ms MarkObjects: 1.477544 ms  DeleteObjects: 0.309141 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001802 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.8 MB.
+System memory in use after: 194.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2703.
+Total: 2.179709 ms (FindLiveObjects: 0.305659 ms CreateObjectMapping: 0.105285 ms MarkObjects: 1.491148 ms  DeleteObjects: 0.276828 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
